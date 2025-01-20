@@ -1,0 +1,34 @@
+/* header-style */
+
+.hea {
+    background-repeat: no-repeat;
+    background-image: url(../images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    flex-shrink: 0;
+    text-align: right;
+}
+
+.header-title {
+    padding: 216px 230px 0px 845px;
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.header-d {
+    padding: 26px 230px 35px 845px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.header-button {
+    width: 160px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FFF;
+    margin: 0px 230px;
+    color: #005FAC;
+}
