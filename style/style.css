@@ -49,6 +49,8 @@ main {
     height: 698px;
     background-position-y: top;
     margin-left: 200px;
+    /* position: sticky; */
+    /* top:10px */
 }
 
 .body-main-title {
@@ -116,9 +118,20 @@ h5 {
 
 .nmn {
     color: #151414;
-    padding: 0px 0px 50px 855px;
+    padding: 0px 0px 50px 745px;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+.back{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    height: 2000px;
+    width: 3000px;
+    position: relative;
+    /* position: absolute; */
+    /* position: fixed; */
+    top: 350px;
+    right: 830px;
 }
